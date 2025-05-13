@@ -77,7 +77,7 @@ Have your own Power BI project or tips? Feel free to **fork this repo** and cont
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pankaj955956)
 - 📧 Email: pankaj955956@gmail.com
-- 📁 Portfolio: *Coming Soon*
+- 📁 Portfolio: https://collab.anchors.in/pankajkumar
 
 ---
 
